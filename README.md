@@ -1,4 +1,4 @@
-Backwards and Forwards Conversion tool, for XML files, in r2 and r3 formats.
+Backwards and Forwards Conversion tool, for XML files.
 
 • Created a desktop application using Java (and git for version control)
 • Transforms files from R2 format to another XML format known as R3 and vice versa
